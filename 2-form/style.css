@@ -1,0 +1,43 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #333333;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 36px;
+}
+
+h3 {
+    font-weight: 600;
+    font-size: 16px;
+}
+
+button {
+    background-color: #089FE0;
+    color: #FFFFFF;
+}
+
+.sub-title {
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.field {
+    background-color: #F5F5F5;
+    font-weight: 400;
+    font-size: 16px; 
+    color: #999999;
+}
+
+.checkbox {
+    font-weight: 400;
+    font-size: 14px; 
+    color: #666666;
+}
+
+.checkbox-href{
+    font-weight: 400;
+    font-size: 14px; 
+    color: #089FE0
+}
