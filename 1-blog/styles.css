@@ -1,0 +1,30 @@
+body {
+    color: #FFFFFF;
+    background-color: #374151;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+.nav li > a{
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.search-form {
+    font-size: 14px;
+    background-color: #1F293799;
+}
+
+.main-text {
+    font-size: 20px;
+}
+
+.base-text {
+    font-size: 16px;
+}
+
+.footer-text {
+    font-size: 16px;
+}
