@@ -5,27 +5,41 @@ body {
 
 h1 {
     font-size: 24px;
+    margin-top: 10px;
 }
 
 .nav li > a{
     font-size: 18px;
     color: #FFFFFF;
+    margin: 20px;
+    padding: 10px;
 }
+
+figure {
+    margin: 100px;
+}
+
 
 .search-form {
     font-size: 14px;
     background-color: #1F293799;
+    margin: 10px;
+    padding: 10px;
 }
+
 
 
 .main-text {
     font-size: 20px;
+    margin-top: 20px;
 }
 
 .base-text {
     font-size: 16px;
+    margin-top: 20px;
 }
 
 .footer-text {
+    margin-top: 40px;
     font-size: 16px;
 }
